@@ -6,10 +6,10 @@ A lightweight resume screening app that uses AI to extract key candidate details
 
 ## 📸 Screenshots
 
-![Home Screen](assets/Upload Page.jpg)
+![Home Screen](assets/upload_page.jpg)
 *Upload resumes and view extracted details*
 
-![Parsed Resume Table](assets/Ranked Shortlisting.jpg)
+![Parsed Resume Table](assets/ranked_shortlisting.jpg)
 *See candidate info and download PDF*
 
 ---
