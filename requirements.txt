@@ -3,4 +3,3 @@ openai
 PyMuPDF
 python-dotenv
 together
-PyPDF2
