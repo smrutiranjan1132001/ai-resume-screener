@@ -4,6 +4,16 @@ A lightweight resume screening app that uses AI to extract key candidate details
 
 ---
 
+## 🚀 Features
+
+- 📄 PDF Resume Upload
+- 🧠 LLM-Based Evaluation (GPT or any open-source LLM)
+- 🧑‍💻 Name, Email, Skills Extraction
+- 🗃 Resume Storage with SQLite
+- 📊 Interactive Table View
+
+---
+
 ## 📸 Screenshots
 
 ![Home Screen](assets/upload_page.jpg)
@@ -14,15 +24,7 @@ A lightweight resume screening app that uses AI to extract key candidate details
 
 ---
 
-## 🚀 Features
 
-- 📄 PDF Resume Upload
-- 🧠 LLM-Based Evaluation (GPT or any open-source LLM)
-- 🧑‍💻 Name, Email, Skills Extraction
-- 🗃 Resume Storage with SQLite
-- 📊 Interactive Table View
-
----
 
 ## 🛠️ Tech Stack
 
