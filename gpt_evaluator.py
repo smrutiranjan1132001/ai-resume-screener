@@ -26,7 +26,7 @@ def evaluate_resume_gpt(resume: str, jd: str) -> str:
         prompt = f"You are an AI recruiter. Evaluate the following resume against the job description. Provide a score out of 100 and a 1-line summary.\n\nJob Description:\n{jd}\n\nResume:\n{resume}"
 
         response = client.chat.completions.create(
-            model="deepseek-ai/DeepSeek-R1-0528-tput",  # good model
+            model="meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",  # free model
             messages=[
                 {"role": "system", "content": "You are a helpful resume evaluator."},
                 {"role": "user", "content":prompt}
